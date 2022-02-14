@@ -1,1 +1,1 @@
-# Baderneiro-discord-bot
+Bot do servidor taverna dos games
